@@ -1,0 +1,11 @@
+GameID, Name, Platform, Genre, Purchase Date, Availability
+mc01, Minecraft, PC, Sandbox, 2025-05-02, Available
+rskf02, Risk Factions, PC, Strategy, 2025-06-01, Available
+gdw04, God of War: Ragnarok, PS5, Action, 2025-06-01, Available
+gta05, Grand Theft Auto 5, PS4/5, Action, 2025-06-01, Available
+blw06, Black Myth Wukong, PC, Action RPG, 2025-06-01, Available
+batt09, Battlefield 6, PC, FPS, 2025-08-01, Available
+red10, Red Dead Redemption 2, PC, Action-adventure, 2025-08-01, Available
+f124, F1 24, PS5, Racing, 2025-05-01, Available
+eld12, Elden Ring, PC, RPG, 2025-08-01, Available
+cyb13, Cyberpunk 2077,PC,RPG, 2025-04-01, Available

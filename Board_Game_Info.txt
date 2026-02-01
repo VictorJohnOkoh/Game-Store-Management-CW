@@ -1,0 +1,11 @@
+GameID, Name, No. Players, Genre, Purchase Date, Availability
+mon01, Monopoly, 2-8, Strategy, 2025-05-01, Available
+rsk02, Risk, 2-6, Strategy, 2025-05-01, Available
+uno03, Uno, 2-8, Strategy, 2025-05-01, Available
+chs04, Chess, 2, Strategy, 2025-05-01, Available
+lud05, Ludo, 2-4, Strategy, 2025-05-01, Available
+gol06, The Game of Life, 2-8, Family, 2025-05-01, Available
+dung07, Dungeons and Dragons, 4-6, RPG, 2025-05-01, Available
+code08, Codenames, Casual, 2-8, 2025-05-01, Available
+bat09, Battleship, Strategy, 2, 2025-05-01, Available
+scra10, Scrabble, Puzzle, 2-4, 2025-05-01, Available
